@@ -18,7 +18,7 @@ Em grandes redes hospitalares, laboratórios e operadoras de saúde, o atendimen
 
 ---
 
-![Arquitetura do iFlow](/01-fhir-to-s4hana-patient-replication/images/integracao-fhir-to-s4hana.png)
+![Arquitetura do iFlow](../images/integracao-fhir-to-s4hana.png)
 
 ## 📐 Arquitetura do iFlow (Pipeline)
 
