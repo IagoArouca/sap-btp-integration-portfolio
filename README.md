@@ -1,7 +1,7 @@
 # sap-btp-integration-portfolio# 🚀 SAP BTP Integration Portfolio & Architecture
 
 [![SAP BTP](https://img.shields.io/badge/SAP%20BTP-Integration%20Suite-008FD3?style=for-the-badge&logo=sap)](https://cloudplatform.sap.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
 
 Este repositório é dedicado ao **desenho, documentação e implementação de cenários complexos de integração no SAP BTP (Integration Suite / CPI)**. O objetivo principal é construir soluções de arquitetura voltadas a desafios reais de mercado, conectando ecossistemas SAP (S/4HANA, HDSF, etc.) e sistemas de terceiros através de padrões consolidados de mensageria, conectividade REST/OData e governança de dados.
 
