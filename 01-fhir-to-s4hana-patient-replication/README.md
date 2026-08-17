@@ -18,6 +18,8 @@ Em grandes redes hospitalares, laboratórios e operadoras de saúde, o atendimen
 
 ---
 
+![Arquitetura do iFlow](./images/IntegraçãoFHIT to SAP S4HANA.png)
+
 ## 📐 Arquitetura do iFlow (Pipeline)
 
 ```text
@@ -48,3 +50,5 @@ Em grandes redes hospitalares, laboratórios e operadoras de saúde, o atendimen
       │
       ▼
   [End]
+
+
